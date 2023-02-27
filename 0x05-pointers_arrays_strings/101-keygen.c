@@ -1,12 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
 /**
- * main - generate keygen
- * Return: 0 Always
+ * main - generates keygen.
+ * Return: 0 Always.
  */
-
 int main(void)
 {
 	int r = 0, c = 0;
